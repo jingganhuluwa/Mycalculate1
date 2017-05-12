@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans1">
+        <item>day</item>
+        <item>h </item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+    </string-array>
+
+    <string-array name="trans2">
+        <item>km/h</item>
+        <item>km/s</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>fps</item>
+    </string-array>
+</resources>

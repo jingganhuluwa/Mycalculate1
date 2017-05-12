@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_time"
+        android:title="时间换算" />
+    <item
+        android:id="@+id/action_speed"
+        android:title="速度换算" />
+    <item
+        android:id="@+id/action_count"
+        android:title="计算器" />
+</menu>
